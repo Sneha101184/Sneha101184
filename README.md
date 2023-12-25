@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **snehaldmhatre@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:Linkedin- Snehalmhatre</h3>
 <p align="left">
 </p>
 
