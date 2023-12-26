@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">A passionate Cloud Engineer</h3>
 
-- 🔭 I’m currently working on [Ad Hoc Projects with Data Ranger
+- 🔭 I’m currently working on Ad Hoc Projects with Data Ranger
 
 - 🌱 I’m currently learning **Ansible, Kubernetes**
 
