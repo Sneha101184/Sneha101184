@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Ansible, Kubernetes**
 
-- 👨‍💻 All of my projects are available at [Sneha-GitHub](Sneha-GitHub)
-
 - 📫 How to reach me **snehaldmhatre@gmail.com**
 
 <h3 align="left">Connect with me:www.linkedin.com/in/snehamhatre10</h3>
